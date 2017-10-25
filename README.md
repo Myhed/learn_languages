@@ -2,8 +2,7 @@
     
 ## Sujet
 
-Pour ce premier exercice il faudra générer du html en javascript. Pour cela tu devras créer un élément <span style="color:tomato">***html***</span> qui sera une liste à puce et donc représenter par un <span style="color:blue">***ul***</span>
-et deux li, le tout en javascript.
+Pour ce premier exercice il faudra générer du html en javascript. Pour cela tu devras créer un élément <span style="color:tomato">***html***</span> qui sera une liste à puce et donc représenter par un <span style="color:blue">***ul***</span> qui englobera deux <span style="color:blue">***li***</span>, le tout sera généré en javascript.
 
 * le premier ***li*** aura pour valeur ***login***
 * le deuxième ***li*** aura pour valeur ***register***
